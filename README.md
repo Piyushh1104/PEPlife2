@@ -13,6 +13,7 @@ Alam, U., Chaudhary, K., Kumar, N., Tomer, R., Patiyal, S., & Raghava, G. P. S. 
 **PEPlife2: An Updated Repository of the Half-life of Peptides.**  
 bioRxiv.  
 https://doi.org/10.1101/2025.05.13.653654
+https://doi.org/10.5281/zenodo.20062683
 
 ---
 
